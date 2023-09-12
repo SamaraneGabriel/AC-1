@@ -1,0 +1,10 @@
+//
+Gabriel Samarane Ribeiro
+725052
+Guia_02
+Arquitetura de Computadores I
+a)0,10010(2) =0,102(4)
+b)0,100101(2) = 0,45(8)
+c)0,101011(2) = 0,AC(16)
+d)1,110001(2) = 1,61 (8)
+e)1110,1001(2) = 7,9(16)

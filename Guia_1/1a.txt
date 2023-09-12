@@ -1,0 +1,15 @@
+Aluno: Gabriel Samarane Ribeiro
+Matéria: Arquitetura de Computadores 1
+Professor: Theldo Cruz
+
+
+Guia 01:
+
+01a.)
+
+a.) 26(10) = 11010(2)
+b.) 53(10) = 110101(2)
+c.) 723(10) = 1011010011(2)
+d.) 312(10) = 100111000(2)
+e.) 365(10) = 101101101(2)
+ 
