@@ -11,7 +11,7 @@ module c (output s, input x, y, z);
 endmodule // Teste para a simplificação feita pelo mapa
 
 module d (output s, input x, y, z);
-    assign s = (z&~x) | (~x&y) | (x&~y) | (z&~y);
+    assign s = (z&~x) | (~x&y) | (z&~y);
 endmodule // Teste para a simplificação feita pelo mapa
 
 module e (output s, input x, y, z);

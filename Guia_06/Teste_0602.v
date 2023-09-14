@@ -1,5 +1,5 @@
 module a (output s, input x, y, z);
-    assign s = (y | ~x) & (~x | ~z);
+    assign s = (~x | ~z) & (~x | y);
 endmodule // Teste para a simplificação feita pelo mapa
 
 module b (output s, input x, y, z);

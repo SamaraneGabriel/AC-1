@@ -1,0 +1,19 @@
+
+Gabriel Samarane Ribeiro 
+
+AC-1 
+
+Representação do mapa de Veitch-Karnaugh para 4 variáveis 
+
+
+
+			       		        w'z' w'z  wz   wz'
+							   	00  01   11   10 
+							   ----------------------
+							x'y'00|  0    1    3    2
+							   |
+							x'y 01|  4    5    7	6
+							   |
+							xy  11|  12   13   15	14	
+							   |
+							xy' 10|  8    9    11	10	
